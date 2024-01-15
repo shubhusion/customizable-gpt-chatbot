@@ -15,7 +15,7 @@ openai
 gunicorn
 django-storages
 boto3
-pycurl
+# pycurl
 pillow
 langchain
 pinecone-client
